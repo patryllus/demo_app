@@ -10,3 +10,5 @@ git gui
 checkout example --before add at working directory:
 
 add to commit
+
+started new branch
